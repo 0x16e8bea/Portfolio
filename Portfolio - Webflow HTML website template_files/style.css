@@ -145,6 +145,17 @@
         padding-bottom: 20px;
       }
 
+      #cover {
+        height: 100vh;
+        /* flex-box thing */
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        background-size: cover; 
+        margin-bottom: 30px;
+      }
+
       figcaption {
         margin-top: 5px;
         opacity: 0.6;

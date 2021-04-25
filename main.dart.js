@@ -55129,7 +55129,7 @@ if(s!=null)s.a1Q(0)},
 $S:1}
 Q.nV.prototype={}
 X.tN.prototype={
-aJ:function(){return new X.Il(G.ade("arrow_down.svg",25),C.m)}}
+aJ:function(){return new X.Il(G.ade("media/arrow_down.svg",25),C.m)}}
 X.Il.prototype={
 R:function(a,b){var s=null,r=t.w,q=b.Z(r).f,p=this.e,o=p.a.z,n=o==null,m=n?s:o.a
 if(m==null)m=0
@@ -55145,7 +55145,7 @@ n=T.zW(H.c([T.vf(C.j9,H.c([q,M.cE(s,T.zW(H.c([new A.Bm(s),new X.BB(H.c([m,o,T.AR
 return new M.uO(new E.Ex(!0,n,s),s)},
 ba:function(){var s,r=this
 r.bC()
-s=new V.FH("assets/animated_bg.mp4",new V.vO(null,C.B,C.pb,C.qm,!1,!1,!1,1,null,null),new P.bD(t.V))
+s=new V.FH("media/animated_bg.mp4",new V.vO(null,C.B,C.pb,C.qm,!1,!1,!1,1,null,null),new P.bD(t.V))
 r.e=s
 s.fI(0)
 r.e.f1(0).aV(0,new X.a2j(r),t.H)
@@ -60952,7 +60952,7 @@ r($,"awi","ahy",function(){return A.dZ(V.a96(),new E.a5h(),!1,t.N,t.kB)})
 r($,"awc","aht",function(){return A.dZ(Q.b5(Q.b5(V.a96(),G.yj("-",null)),V.a96()),new E.a54(),!1,t.j,t.kB)})
 r($,"awf","ahw",function(){return A.dZ(Z.ank(O.e8($.aht(),$.ahy()),t.z),new E.a5g(),!1,t.j,H.S("l0"))})
 r($,"awb","ahs",function(){return A.dZ(Q.b5(M.acn(G.yj("^",null),t.N),$.ahw()),new E.a53(),!1,t.j,H.S("l0"))})
-q($,"awK","ahQ",function(){return G.ade("mr_logo.svg",null)})
+q($,"awK","ahQ",function(){return G.ade("media/mr_logo.svg",null)})
 q($,"awT","ahU",function(){return H.c([Q.Bn(!1,new A.a5J(),"HOME"),Q.Bn(!1,new A.a5K(),"ABOUT ME"),Q.Bn(!1,new A.a5L(),"PORTFOLIO"),Q.Bn(!1,new A.a5M(),"TWITTER"),Q.Bn(!0,new A.a5N(),"CONTACT ME")],H.S("o<nV*>"))})
 q($,"awV","ahW",function(){var p=null
 return H.c([M.cE(p,L.Fa("Technical Artist",B.abL(15,C.cu)),p,p,p,p,p,p,p),T.hm(p,15,p),M.cE(p,L.Fa("Mikkel S. K. Mogensen",Z.afI(p,p,p,p,p,p,p,"Ovo",p,30,p,C.n,P.aO([Z.amu(C.aR,C.n),F.amt("50e634088f389dcf2f463aa182c8ccb9d19042decdd216fed34fa70b5dfb49fd",50840)],t.Aw,t.qt),p,p,p,p,p,p,p,p)),p,p,p,p,p,p,p),T.hm(p,15,p),M.cE(p,L.Fa("Generalist computer graphics artist \ud83c\udfa8 and creative programmer \ud83d\udc7e, based in Copenhagen \udb40\udc64\udb40\udc6b\udb40\udc38\udb40\udc31\udb40\udc7f",B.abL(20,C.cu)),p,p,p,p,p,p,p)],t.fQ)})
